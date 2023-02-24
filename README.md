@@ -31,5 +31,5 @@ Versão 1.0
 
 Visto que a primeira versão foi desenvolvida como o esperado. Partiu para a versão 2.0.
 
-![Version 1](../organize-tasks/screenshots/Version1.PNG)
+![Version 1](screenshots/Version1.PNG)
 
